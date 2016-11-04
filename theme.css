@@ -18,6 +18,9 @@ html, body, section {
 	margin: 30px;
 	max-width: 200px;
 	background: #ffe100;
+	border: 1px solid #d4b108;
+	border-radius: 5px;
+   	box-shadow: 1px 1px 1px #888888;
 }
 
 div.event {
